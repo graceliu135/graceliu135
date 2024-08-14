@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Grace Liu and this is my github!
+
 <!--
 **graceliu135/graceliu135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
